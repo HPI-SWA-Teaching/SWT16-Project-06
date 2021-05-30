@@ -10,6 +10,6 @@ activate: hand
 		showMorphs;
 		openInWorld;
 		startStepping.
-	self textField contents: self lastInputString;
-		selectAll
+	self textField model contents: self lastInputString.
+	self textField selectAll.
 	

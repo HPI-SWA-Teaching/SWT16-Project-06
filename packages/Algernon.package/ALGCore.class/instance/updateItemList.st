@@ -1,5 +1,5 @@
 updating
 updateItemList
 
-	self updateItemListWith: self textField currentContent
+	self updateItemListWith: self textField model contents.
 		

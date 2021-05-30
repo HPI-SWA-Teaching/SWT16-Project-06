@@ -1,0 +1,15 @@
+{
+	"category" : "Algernon",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"controller",
+		"contents" ],
+	"name" : "ALGScrollingInputField",
+	"pools" : [
+		 ],
+	"super" : "Model",
+	"type" : "normal" }
